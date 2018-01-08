@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test4_Display</string>
+    <string name="title_activity_display_map">Map</string>
+    <string name="firebase_path" translatable="false">locations</string>
+    <string name="firebase_email" translatable="false">up827051@myport.ac.uk</string>
+    <string name="firebase_password" translatable="false">Password1298</string>
+</resources>
